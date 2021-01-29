@@ -1,0 +1,239 @@
+
+.cu{
+    padding-top: 45px;
+    padding-bottom: 44px;
+    font-size: 50px;
+    padding-left: 530px;
+}
+.limit{
+    width: 230px;
+}
+.sp{
+    padding-top: 35px;
+    padding-left: 140px;
+}
+.image{
+    padding-left: 10px;
+}
+@media screen and (min-width:1200px){
+    .ub{
+        height: 130px;
+        background-color: gainsboro;
+    }
+    .plus{
+        margin-top: -3px;
+        border-bottom: 3px solid black;
+    }
+    .font{
+        font-size: 35px;
+        color: indigo;
+    }
+    .fp{
+        padding-left: 110px;
+        padding-top: 110px;
+    }
+    .mob{
+        width:30px;
+        height:54px;
+    }
+    .ex{
+        padding-left: 10px;
+    }
+    .flex{
+        display: flex;
+    }
+    .loc{
+        width:30px;
+        height:47px;
+    }
+    .social{
+        width:34px;
+        height:45px;
+    }
+    .ml{
+        font-size: 29px;
+        margin-left: -35px;
+        padding-top: 10px;
+        font-weight: 200;
+    }
+    .mln{
+        font-size: 29px;
+        margin-left: -43px;
+        padding-top: 10px;
+    }
+    .o{
+        font-size: 21px;
+        padding-top: 12px;
+        margin-left: -10px;
+    }
+    .fn{
+        font-size: 17px;
+        padding-top: 9px;
+        margin-left: -32px;
+    }
+    .am{
+        font-size: 21px;
+        padding-top: 9px;
+        margin-left: -32px;
+    }
+    .sn{
+        font-size: 17px;
+        padding-top: 9px;
+        margin-left: -32px;
+    }
+    .on{
+        font-size: 24px;
+        padding-top: 12px;
+        margin-left: -12px;
+    }
+    .fnn{
+        font-size: 17px;
+        padding-top: 9px;
+        margin-left: -47px;
+    }
+    .sflex{
+        display: flex;
+    }
+    .spn{
+        padding-top: 41px;
+        padding-left: 140px;
+    }
+    .fnm{
+        font-size: 17px;
+        padding-top: 11px;
+        margin-left: -46px;
+    }
+    .img1{
+        width:24px;
+        height:27px;
+    }
+    .img2{
+        width:23px;
+        height:24px;
+    }
+    .img3{
+        width:23px;
+        height:25px;
+    }
+    .img4{
+        width:23px;
+        height:25px;
+    }
+    .limg{
+        width:1180px;
+        height:380px;
+    }
+
+}
+@media screen and (max-width:1200px){
+    .ub{
+        height: 170px;
+        background-color: gainsboro;
+        width: 1190px;
+    }
+    .plus{
+        margin-top: -3px;
+        border-bottom: 3px solid black;   
+    }
+    .font{
+        font-size: 50px;
+        color: indigo;
+    }
+    .fp{
+        padding-left: 80px;
+        padding-top: 110px;
+    }
+    .mob{
+        width:50px;
+        height:80px;
+    }
+    .ex{
+        padding-left: 10px;
+    }
+    .loc{
+        width:50px;
+        height:77px;
+    }
+    .social{
+        width:67px;
+        height:76px;
+    }
+    .ml{
+        font-size: 61px;
+        margin-left: -35px;
+        padding-top: 10px;
+    }
+    .mln{
+        font-size: 56px;
+        margin-left: -43px;
+        padding-top: 10px;
+    }
+    .o{
+        font-size: 60px;
+        padding-top: 12px;
+        margin-left: -28px;
+        padding-bottom: 8px;
+    }
+    .fn{
+        font-size: 40px;
+        padding-top: 9px;
+        margin-left: -32px;
+    }
+    .am{
+        font-size: 50px;
+        padding-top: 9px;
+        margin-left: -32px;
+    }
+    .sn{
+        font-size: 40px;
+        padding-top: 9px;
+        margin-left: -32px;
+    }
+    .sflex{
+        display: flex;
+    }
+    .and{
+        padding-left: 200px;
+    }
+    .on{
+        font-size: 60px;
+        padding-top: 12px;
+        margin-left: -40px;
+        padding-bottom: 8px;
+    }
+    .fnn{
+        font-size: 40px;
+        padding-top: 9px;
+        margin-left: -47px;
+    }
+    .spn{
+        padding-top: 41px;
+        padding-left: 140px;
+        width: 400px;
+    }
+    .fnm{
+        font-size: 39px;
+        padding-top: 11px;
+        margin-left: -46px;
+    }
+    .img1{
+        width:60px;
+        height:61px;
+    }
+    .img2{
+        width:50px;
+        height:55px;
+    }
+    .img3{
+        width:53px;
+        height:58px;
+    }
+    .img4{
+        width:53px;
+        height:55px;
+    }
+    .limg{
+        width:1190px;
+        height:500px;
+    }
+}

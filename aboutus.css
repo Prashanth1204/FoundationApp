@@ -1,0 +1,118 @@
+.centre{
+    text-align: center;
+}
+.maini{
+    font-size: 30px;
+    padding-top: 15px;
+    margin-top: -14px;
+    color: whitesmoke;
+}
+.image{
+    padding-top: 10px;
+}
+.flex{
+    display: flex;
+}
+.line{
+    width: 70px;
+    border: 1px solid black;
+    margin-bottom: -16px;
+    padding-right: 3px;
+}
+.limit{
+    width: 70px;
+}
+@media screen and (min-width:1200px){
+    .forimage{
+        width:500px;
+        height:300px;
+    }
+    .pl{
+        padding-left: 540px;
+    }
+    .text{
+        font-size: 23px;
+        padding-top: 15px;
+        padding-left: 5px;
+    }
+    .grey{
+        height: 400px;
+        background-color: gainsboro;
+    }
+    .last{
+        color: crimson;
+        font-size: 25px;
+        padding-left: 6px;
+        font-weight: bold;
+    }
+    .lo{
+        font-size: 23px;
+        padding-left: 6px;
+    }
+    .lasti{
+        color: indigo;
+        font-size: 25px;
+        padding-left: 6px;
+        font-weight: bold;
+    }
+    .main{
+        font-size: 40px;
+        padding-top: 15px;
+        padding-left: 3px;
+        padding-right: 3px;
+        color: whitesmoke
+    }
+    .blue{
+        height: 130px;
+        background-color: mediumslateblue
+    }
+    .flexi{
+        display: flex;
+    }
+
+}
+@media screen and (max-width:1200px){
+    .forimage{
+        width:0px;
+        height:0px;
+    }
+    .pl{
+        padding-left: 56px;
+    }
+    .text{
+        font-size: 15px;
+        padding-top: 15px;
+        padding-left: 5px;
+    }
+    .grey{
+        height: 410px;
+        background-color: gainsboro;
+    }
+    .last{
+        color: crimson;
+        font-size: 19px;
+        padding-left: 6px;
+        font-weight: bold;
+    }
+    .lo{
+        font-size: 17px;
+        padding-left: 6px;
+    }
+    .lasti{
+        color: indigo;
+        font-size: 20px;
+        padding-left: 6px;
+        font-weight: bold;
+    }
+    .main{
+        font-size: 26px;
+        padding-top: 15px;
+        padding-left: 3px;
+        padding-right: 3px;
+        color: whitesmoke
+    }
+    .blue{
+        height: 90px;
+        background-color: mediumslateblue
+    }
+}
